@@ -1,4 +1,4 @@
-package com.offline.translator;
+package com.offlinetranslator.app;
 
 import android.app.Activity;
 import android.os.Bundle;
